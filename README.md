@@ -1,5 +1,5 @@
 ## 안녕하세요, 데이터 분석 및 기획에 관심 있는 지원자입니다.
-<img width="200px;" src="<a href="https://www.flaticon.com/free-icons/explain" title="explain icons">Explain icons created by HAJICON - Flaticon</a>">
+<img width="200px;" src="https://www.flaticon.com/free-icons/explain">
 
 <div align=center>
 
