@@ -1,5 +1,5 @@
-## 개발자 환경
-<img width="200px;" src="https://raw.githubusercontent.com/songmac/songmac/main/39262_79422_811.jpg">
+## 안녕하세요, 데이터 분석 및 기획에 관심 있는 지원자입니다.
+<img width="200px;" src="<a href="https://www.flaticon.com/free-icons/explain" title="explain icons">Explain icons created by HAJICON - Flaticon</a>">
 
 <div align=center>
 
