@@ -18,15 +18,10 @@
 
 </br>
 </br>
+</br>
+
 
 # **언어 및 도구 (사용경험)**  
-
-
-![]()
-![]()
-![]()
-![]()
-
 
 ### Skills
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
