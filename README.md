@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D3FFFF&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D3FFFF&height=150&section=header&text=Dreams don’t work unless you do&fontSize=90" />
 
 ### 👋 [데이터분석, PM] 자기 계발 열정 MAX , 능력치도 MAX 찍겠습니다.
 
