@@ -23,11 +23,18 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tableau/tableau.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powerBI/powerBI.png"></code>
 
+
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songmac)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songmac" alt="Top Langs">
+  </a>
 </div>
 <div align="center">
-![songmac's GitHub stats](https://github-readme-stats.vercel.app/api?username=songmac&hide=contribs,prs&show_icons=true&theme=graywhite)
+  <img src="https://github-readme-stats.vercel.app/api?username=songmac&hide=contribs,prs&show_icons=true&theme=graywhite" alt="songmac's GitHub stats">
 </div>
+
+
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D3FFFF&height=150&section=footer" />
 
