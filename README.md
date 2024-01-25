@@ -1,5 +1,6 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D3FFFF&height=150&section=header&text=Data Analyst&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D1B2FF&height=150&section=header&text=DataAnalyst&fontSize=90&fontColor=8C8C8C" />
+
 
 ### 👋 [데이터분석, PM] 자기 계발 열정 MAX , 능력치도 MAX 찍겠습니다.
 
@@ -24,7 +25,8 @@
 
 <div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songmac)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
+<div align="center">
 ![songmac's GitHub stats](https://github-readme-stats.vercel.app/api?username=songmac&hide=contribs,prs&show_icons=true&theme=graywhite)
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D3FFFF&height=150&section=footer" />
