@@ -21,7 +21,7 @@
 </br>
 
 
-# **언어 및 도구 (사용경험)**  
+# **언어 및 도구**  
 
 ### Skills
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -74,7 +74,13 @@
 ### Others
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
- 	
+
+
+</br>
+</br>
+</br>
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={songmac}&theme=blue-green)
 
 ![songmac's GitHub stats](https://github-readme-stats.vercel.app/api?username={songmac}&theme=blue-green)
