@@ -1,6 +1,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D1B2FF&height=150&section=header&text=DataAnalyst&fontSize=90&fontColor=8C8C8C" />
 
+<div align="right">
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="maintained">
+</div>
+
 
 ### 👋 [데이터분석, PM] 자기 계발 열정 MAX , 능력치도 MAX 찍겠습니다.
 
@@ -74,11 +78,11 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
  	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={songmac}&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={songmac}&theme=blue-green)
 
 ![songmac's GitHub stats](https://github-readme-stats.vercel.app/api?username={songmac}&theme=blue-green)
 
-![maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D3FFFF&height=150&section=footer" />
