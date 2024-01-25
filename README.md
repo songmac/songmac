@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D1B2FF&height=150&section=header&text=DataAnalyst&fontSize=90&fontColor=8C8C8C" />
 
 
-# [데이터분석, PM] 자기 계발 열정 MAX , 능력치도 MAX 찍겠습니다.
+# [데이터분석, PM] 열정과 냉철한 판단력을 가진 데이터 분석가
 <div align=right>
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongmac&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
