@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D1B2FF&height=150&section=header&text=DataAnalyst&fontSize=90&fontColor=8C8C8C" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A2FFFF&height=150&section=header&text=Hi,there!&fontSize=90&fontColor=FFFFFF" />
 
 
 # [데이터분석, PM] 열정과 냉철한 판단력을 가진 데이터 분석가
@@ -77,5 +77,5 @@
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D3FFFF&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A2FFFF&height=150&section=footer" />
 
