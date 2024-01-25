@@ -15,6 +15,8 @@
 
 **언어 및 도구 (사용경험)**  
 
+<img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
@@ -24,14 +26,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powerBI/powerBI.png"></code>
 
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songmac" alt="Top Langs">
-  </a>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=songmac&hide=contribs,prs&show_icons=true&theme=graywhite" alt="songmac's GitHub stats">
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songmac)](https://github.com/anuraghazra/github-readme-stats)
+
+![songmac's GitHub stats](https://github-readme-stats.vercel.app/api?username=songmac&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 
 
