@@ -1,10 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D1B2FF&height=150&section=header&text=DataAnalyst&fontSize=90&fontColor=8C8C8C" />
 
-<div align="right">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="maintained">
-</div>
-
 
 # [데이터분석, PM] 자기 계발 열정 MAX , 능력치도 MAX 찍겠습니다.
 
