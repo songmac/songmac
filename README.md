@@ -1,6 +1,5 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 ### 👋 [데이터분석, PM] 자기 계발 열정 MAX , 능력치도 MAX 찍겠습니다.
 
@@ -27,3 +26,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songmac)](https://github.com/anuraghazra/github-readme-stats)
 
 ![songmac's GitHub stats](https://github-readme-stats.vercel.app/api?username=songmac&hide=contribs,prs&show_icons=true&theme=graywhite)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
