@@ -4,7 +4,7 @@
  
 <div align="left">
 
-# [데이터분석, PM] 열정과 냉철한 판단력을 가진 데이터 분석가
+## [DA, PM] A passionate Data Analyst and Project Manager with a keen sense of judgment
 <div align=center>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B1%B4-%EC%9D%B4-26771614b/)](https://www.linkedin.com/in/selena-song-48b7312a0/)
@@ -18,7 +18,7 @@
 * 🌱 다양한 툴 사용 경험을 축적하기 위해 열심히 잔디를 심고 있습니다.
 
 
-# **언어 및 도구**  
+## Languages and Tools 
 
 <div style="display:flex; flex-direction:row;">
   
@@ -38,7 +38,7 @@
 
 </div>
 
-
+## Activity Logs
 <div align="center">
 
 <a href="https://github.com/songmac"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=songmac&show_icons=true&include_all_commits=true&theme=ocean-gradient&hide_border=true" alt="songmac's github stats" /></a>
