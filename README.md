@@ -65,14 +65,12 @@
 
 
 
-
-
-<br>
+<div align="center">
 
 <a href="https://github.com/songmac"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=songmac&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" alt="songmac's github stats" /></a>
 <a href="https://github.com/songmac"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songmac&layout=compact&theme=blue-green&hide_border=true" /></a>
 
-<div align="center">
+
 	
 [![GitHub Streak](https://streak-stats.demolab.com?user=songmac&theme=black-ice)](https://git.io/streak-stats)
 	
