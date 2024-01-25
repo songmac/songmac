@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=egg&color=BDBDC8&height=150&section=header" />
 
 ### 👋 [데이터분석, PM] 자기 계발 열정 MAX , 능력치도 MAX 찍겠습니다.
 
