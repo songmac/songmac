@@ -1,13 +1,8 @@
-<div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A2FFFF&height=150&section=header&text=Hi,there!&fontSize=90&fontColor=FFFFFF" />
-
-</div>
-
-
 # [데이터분석, PM] 열정과 냉철한 판단력을 가진 데이터 분석가
 <div align=right>
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongmac&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B1%B4-%EC%9D%B4-26771614b/)](https://www.linkedin.com/in/selena-song-48b7312a0/) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8)]([https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8](https://www.notion.so/Be_Life-0fd779b3f0bf46898951d1d2ae536e44))
@@ -133,8 +128,5 @@
 <a href="https://github.com/songmac"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songmac&layout=compact&theme=ocean-gradient&hide_border=true" /></a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=songmac&theme=ocean-gradient&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A2FFFF&height=150&section=footer" />
 
 </div>
