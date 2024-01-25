@@ -64,9 +64,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songmac&theme=blue-green)
-
-![songmac's GitHub stats](https://github-readme-stats.vercel.app/api?username=songmac&theme=blue-green) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songmac&theme=blue-green) ![songmac's GitHub stats](https://github-readme-stats.vercel.app/api?username=songmac&theme=blue-green) 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=songmac&theme=black-ice)](https://git.io/streak-stats)
 
