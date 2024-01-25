@@ -1,5 +1,9 @@
 
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A2FFFF&height=150&section=header&text=Hi,there!&fontSize=90&fontColor=FFFFFF" />
+
+</div>
 
 
 # [데이터분석, PM] 열정과 냉철한 판단력을 가진 데이터 분석가
@@ -17,9 +21,9 @@
 * 🌱 다양한 툴 사용 경험을 축적하기 위해 열심히 잔디를 심고 있습니다.
 
 
+
 </br>
-</br>
-</br>
+
 
 
 # **언어 및 도구**  
@@ -60,8 +64,6 @@
 
 
 </br>
-</br>
-</br>
 
 
 
@@ -71,11 +73,9 @@
 <a href="https://github.com/songmac"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songmac&layout=compact&theme=ocean-gradient&hide_border=true" /></a>
 
 
-	
 [![GitHub Streak](https://streak-stats.demolab.com?user=songmac&theme=ocean-gradient&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-	
-</div>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A2FFFF&height=150&section=footer" />
 
+</div>
