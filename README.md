@@ -3,7 +3,7 @@
 
 
 # [데이터분석, PM] 자기 계발 열정 MAX , 능력치도 MAX 찍겠습니다.
-<div align=center>
+<div align=right>
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongmac&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
