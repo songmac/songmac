@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=A2FFFF&text=&animation=twinkling&height=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=A2FFFF&text=&animation=twinkling&height=120)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=4FC9DE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Selena's+GitHub!👋)](https://git.io/typing-svg)
  
 <div align="left">
 
-## [DA, PM] A passionate Data Analyst and Project Manager with a keen sense of judgment
+## [Data Analyst, Project Manager] A passionate Applicant with a keen sense of judgment
 <div align=center>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B1%B4-%EC%9D%B4-26771614b/)](https://www.linkedin.com/in/selena-song-48b7312a0/)
