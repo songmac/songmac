@@ -12,10 +12,10 @@
 
 </div>
 
-* 👩 공학 분야를 전공하였고 C, C++, Python 언어 교육과정을 이수한 데이터 분석가입니다.
-* 💻 ADsP 자격증과 SQLD 자격증을 보유하고 있습니다.
-* 🎨 프로젝트 기획 및 관리 경력 3년 보유하고 있습니다.
-* 🌱 다양한 툴 사용 경험을 축적하기 위해 열심히 잔디를 심고 있습니다.
+👩 I am a data analyst with a major in engineering and have completed education courses in C, C++, and Python languages. <br>
+💻 I possess ADsP (Advanced Data Processing Specialist) and SQLD (SQL Developer) certifications. <br>
+🎨 I have 3 years of experience in project planning and management. <br>
+🌱 I am actively cultivating my experience with various tools by diligently contributing to my work. <br>
 
 
 ## Languages and Tools 
