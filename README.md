@@ -12,10 +12,10 @@
 
 </div>
 
-👩 I am a data analyst with a major in biomedical engineering and have completed education courses in C, C++, and Python languages. <br>
-💻 I possess ADsP (Advanced Data Processing Specialist) and SQLD (SQL Developer) certifications. <br>
-🎨 I have 3 years of experience in project planning and management. <br>
-🌱 I am actively cultivating my experience with various tools by diligently contributing to my work. <br>
+👩 [Introduction] I am a data analyst with a major in biomedical engineering. <br>
+💻 [Main Skills] I possess ADsP (Advanced Data Processing Specialist) and SQLD (SQL Developer) certifications. <br>
+🎨 [Career] I have 3 years of experience in project planning and management. <br>
+🌱 [Attitude] I am actively cultivating my experience with various tools by diligently contributing to my work. <br>
 
 
 ## Languages and Tools 
