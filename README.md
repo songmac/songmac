@@ -4,7 +4,7 @@
  
 <div align="left">
 
-## [DA, PM] A Passionate and Promising Data Analyst, Project Manager
+## [DA] A Passionate and Promising Data Analyst
 <div align=center>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B1%B4-%EC%9D%B4-26771614b/)](https://www.linkedin.com/in/selena-song-48b7312a0/)
