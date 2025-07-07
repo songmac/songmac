@@ -4,22 +4,23 @@
  
 <div align="left">
 
-## [AIR/DA] A Passionate and Promising Artificial Intelligence Researcher, Data Analyst
+## [AIR/DA] A Passionate Artificial Intelligence Researcher, Data Analyst
 <div align=center>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B1%B4-%EC%9D%B4-26771614b/)](https://www.linkedin.com/in/selena-song-48b7312a0/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B1%B4-%EC%9D%B4-26771614b/)](www.linkedin.com/in/selena-song)
 [![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fsongmac?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 
 
 </div>
 
-👩 [Introduction] I am a data analyst with a major in biomedical engineering. <br>
-💻 [Main Skills] I possess ADsP (Advanced Data Processing Specialist) and SQLD (SQL Developer) certifications. <br>
-🎨 [Career] I have 3 years of experience in project planning and management. <br>
-🌱 [Attitude] I am actively cultivating my experience with various tools by diligently contributing to my work. <br>
+👩 [Introduction] I majored in biomedical engineering and currently work as a data analyst. <br>
+💻 [Main Skills] I hold certifications in ADsP and SQLD, and am in the process of obtaining the Information Processing Engineer license(Korean national certification). <br>
+👩🏻‍🏫 [Career] I worked as an instructor / assistant instructor / mentor teaching data analysis methods and tools to adult learners for a year. <br>
+👩🏻‍🔬 [Career] With 3 years of experience in R&D, I am skilled in project planning and management. <br>
+🌱 [Attitude] I actively enhance my skills by exploring various tools and contributing diligently to my work. <br>
 
 
-## Languages and Tools 
+## Languages and Skills 
 
 <div style="display:flex; flex-direction:row;">
   
