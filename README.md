@@ -1,14 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A2FFFF&text=&animation=twinkling&height=120)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=4FC9DE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Selena's+GitHub!👋)](https://git.io/typing-svg)
- 
+
 <div align="left">
 
 ## [AIR/DA] A Passionate and Promising Artificial Intelligence Researcher, Data Analyst
+
 <div align=center>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B1%B4-%EC%9D%B4-26771614b/)](https://www.linkedin.com/in/selena-song-48b7312a0/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongmac&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<!-- [![GitHub Gist](./img/GitHubGist.png)](https://songmac.github.io/) -->
+<a href="https://songmac.github.io/">
+  <img src="./img/GitHubGist.png" width="60"/>
+</a>
 
 </div>
 
@@ -17,8 +23,7 @@
 🎨 [Career] I have 3 years of experience in project planning and management. <br>
 🌱 [Attitude] I am actively cultivating my experience with various tools by diligently contributing to my work. <br>
 
-
-## Languages and Tools 
+## Languages and Tools
 
 <div style="display:flex; flex-direction:row;">
   
@@ -36,10 +41,10 @@
 | Terminal | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) |
 | OS | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
 
-
 </div>
 
 ## Activity Logs
+
 <div align="center">
 
 <a href="https://github.com/songmac"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=songmac&show_icons=true&include_all_commits=true&theme=ocean-gradient&hide_border=true" alt="songmac's github stats" /></a>
@@ -48,6 +53,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=songmac&theme=ocean-gradient&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 </div>
-
-
-
