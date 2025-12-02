@@ -8,10 +8,9 @@
 
 <div align=center>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B1%B4-%EC%9D%B4-26771614b/)](https://www.linkedin.com/in/selena-s-48b7312a0/?trk=public_profile-settings_edit-profile-content&originalSubdomain=kr)
-[![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fsongmac?color=blue&label=hits&size=small)](https://myhits.vercel.app) <a href="https://songmac.github.io/">
-<img src="./img/GitHubGist.png" width="60"/>
-</a>
+[![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fsongmac?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/selena-s-48b7312a0/?trk=public_profile-settings_edit-profile-content&originalSubdomain=kr)
+[![Blog](https://img.shields.io/badge/Blog-4FC9DE?style=flat-square&logo=github&logoColor=white)](https://songmac.github.io/)
 
 </div>
 
@@ -45,9 +44,6 @@
 ## Activity Logs
 
 <div align="center">
-
-<a href="https://github.com/songmac"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=songmac&show_icons=true&include_all_commits=true&theme=ocean-gradient&hide_border=true" alt="songmac's github stats" /></a>
-<a href="https://github.com/songmac"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songmac&layout=compact&theme=ocean-gradient&hide_border=true" /></a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=songmac&theme=ocean-gradient&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
