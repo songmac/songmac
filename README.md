@@ -31,16 +31,19 @@
 ## 🧰 Languages & Tools
 
 **Analysis**  
-Python (pandas, numpy, scikit-learn), SQL (MySQL, Oracle)
+Python (pandas, numpy, scikit-learn), SQL (MySQL, Oracle), R
 
 **Visualization**  
 Tableau, Power BI, Excel
 
-**ML / LLM**  
-TensorFlow, PyTorch, Prompt Engineering
+**ML / DL / LLM**  
+TensorFlow, PyTorch, Prompt Engineering, LangChain, RAG, Fine-Tuning, LangGraph, MCP
 
 **Environment & Infra**  
 Jupyter, VS Code, Git, Conda, AWS
+
+**Others**
+C, Java
 
 <br>
 
